@@ -1,4 +1,3 @@
-
 // Creating a Stored Procedure for User Registration
 DELIMITER //
 
